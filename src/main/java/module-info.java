@@ -2,6 +2,7 @@ module home.example.bioadmin {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
+    requires spring.web;
 
     requires org.controlsfx.controls;
     requires com.dlsc.formsfx;

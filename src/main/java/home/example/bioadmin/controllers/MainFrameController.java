@@ -1,2 +1,4 @@
-package home.example.bioadmin.controllers;public interface MainFrameController {
+package home.example.bioadmin.controllers;
+
+public interface MainFrameController {
 }

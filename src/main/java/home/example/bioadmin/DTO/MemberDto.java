@@ -1,4 +1,4 @@
-package org.example.DTO;
+package home.example.bioadmin.DTO;
 
 import java.time.Instant;
 import java.util.List;

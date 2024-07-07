@@ -1,9 +1,8 @@
-package org.example.httpClient;
+package home.example.bioadmin.httpClient;
 
-import org.example.DTO.MemberDto;
+import home.example.bioadmin.DTO.MemberDto;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.service.annotation.GetExchange;
 import org.springframework.web.service.annotation.HttpExchange;
 

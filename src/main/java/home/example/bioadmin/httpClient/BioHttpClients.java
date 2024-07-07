@@ -1,4 +1,4 @@
-package org.example.httpClient;
+package home.example.bioadmin.httpClient;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
